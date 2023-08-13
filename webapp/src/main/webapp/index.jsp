@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+    <label for="DevOps"><b>Enter Server</b></label>
+    <input type="text" placeholder="Enter DevOps Server" name="DevOps" id="DevOps" required>
+    <br>
+
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
