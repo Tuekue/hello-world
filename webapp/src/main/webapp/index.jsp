@@ -30,6 +30,7 @@
     <hr>
     <br>
     <p>Test to Deploy o DockerHub</p>
+    <p>Final Task for Ansible + DockerHub</p>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
